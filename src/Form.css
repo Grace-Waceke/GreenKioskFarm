@@ -1,79 +1,63 @@
 body{
-    background-color: #FEEA98;
-
+  background-color: #FEEA98;
 }
 .login{
- background-color: #FFFFFF;
-    width: 950px;
-    height: 550px;
-    margin-left: 14%;
-    margin-top: 2%;
-    background-repeat: no-repeat;
-    }
- .sign p{ 
-    margin-left: 55%;
-    padding-top: 3%;
-  
-   }
- 
-
-.form{
-    margin-left: 5%;
-    
+  background-color: #FFFFFF;
+  width: 950px;
+  height: 550px;
+  margin-left: 14%;
+  margin-top: 2%;
+  background-repeat: no-repeat;
+}
+.sign p{
+  margin-left: 55%;
+  padding-top: 3%;
 }
 .form1{
-    margin-left: 5%;
-    
+  margin-left: 5%;   
 }
-
 #password{
-    width: 250px;
-    height: 25px;
-
+  width: 250px;
+  height: 25px;
+}
+.form{
+  margin-left: 5%;
 }
 #youremail{
-    width: 250px;
-    height: 25px;
+  width: 250px;
+  height: 25px;
 }
 .form1 h5{
-    margin-left: 18%;
-    margin-top: -4%;
-
-}
-.btn{
-    width: 250px;
-  background-color: #19A0A6;
-    margin-left: 5%;
-    height: 40px;
+  margin-left: 18%;
+  margin-top: -4%;
 }
 .icons{
   margin-top: -10%;
   margin-left: 10%;
-  
-  
-   }
- 
-  .choice{
-    margin-left: 6%;
-
-  }
- 
-  .photo{
-    margin-top: -40%;
-    margin-left: 37%;
-  }
-  
-  .linkedIn{
-    margin-left: 5%;
-    margin-top: -2%;
-  }
-  .google{
-    margin-left: 10%;
-    margin-top: -2.5%;
-
-  }
-  .tick{
-display: flex;
-margin-top: -1%;
-  }
+}
+.choice{
+  margin-left: 6%;
+}
+.btn{
+  width: 250px;
+  background-color: #19A0A6;
+  margin-left: 5%;
+  height: 40px;
+}
+.linkedIn{
+  margin-left: 5%;
+  margin-top: -2%;
+}
+.tick{
+  display: flex;
+  margin-top: -1%;
+}
+.google{
+  margin-left: 10%;
+  margin-top: -2.5%;
+}
+.photo{
+  margin-top: -40%;
+  margin-left: 37%;
+}
  
